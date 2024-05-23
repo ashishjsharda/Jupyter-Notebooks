@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Alice",
+    "age": 25,
+    "city": "New York",
+    "income": 55000,
+    "married": false
+  },
+  {
+    "name": "Bob",
+    "age": 32,
+    "city": "Chicago",
+    "income": 72000,
+    "married": true
+  },
+  {
+    "name": "Charlie",
+    "age": 40,
+    "city": "San Francisco",
+    "income": 90000,
+    "married": true
+  },
+  {
+    "name": "David",
+    "age": 28,
+    "city": "New York",
+    "income": 62000,
+    "married": false
+  }
+]
